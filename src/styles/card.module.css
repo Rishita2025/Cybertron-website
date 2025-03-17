@@ -1,0 +1,4 @@
+.about_textCard:nth-child(2){
+border: 1px solid red;
+border-radius: 10px;
+}

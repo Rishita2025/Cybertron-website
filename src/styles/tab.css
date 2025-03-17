@@ -1,0 +1,67 @@
+.tabs {
+    position: relative;
+    margin: 25px 0;
+  }
+  .tab {
+    float: left;
+  }
+  .tab label {
+    background: #ddd; 
+    padding: 10px; 
+    border: 1px solid #ccc;
+    cursor: pointer;
+    margin-left: -1px; 
+    background: #ffff;
+    color: #000;
+    margin:10px;
+    border-radius:10px;
+    
+    border: none;
+    transition: all 0.2s ease-in;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+  }
+
+  .tab label:hover{
+    background-color: #1E40AF;
+    color: #fff;
+  }
+
+  .tab:first-child label {
+    margin-left: 0;
+  }
+  .tab input[type=radio] {
+    display: none;   
+  }
+  .tab-content {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* background: white; */
+    padding: 20px;
+    border: 1px solid #ccc;
+    display: none;
+    color: #fff;
+  }
+
+ 
+  
+  input[type=radio]:checked ~ label {
+    background: #1E40AF;
+    color: #ffff;
+    margin:10px;
+    border-radius: 10px;
+    
+    border: none;
+
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+  }
+  input[type=radio]:checked ~ label ~ .tab-content {
+    display: block;
+    
+  }
+
+
+
+  
