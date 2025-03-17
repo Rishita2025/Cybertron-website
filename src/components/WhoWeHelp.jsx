@@ -32,7 +32,7 @@ function WhoWeHelp() {
                           Protect Your Digital Life
                         </span>
                       </h2>
-                      <p className="text-md font-medium">
+                      <p className="text-md font-medium text-center">
                         Secure your personal data, online reputation, and digital
                         presence against hackers, fraud, and misinformation.
                       </p>
@@ -53,7 +53,7 @@ function WhoWeHelp() {
                           Launch, Grow, and Succeed
                         </span>
                       </h2>
-                      <p className="text-md font-medium">
+                      <p className="text-md font-medium text-center">
                         Build, scale, and innovate without cyber risks slowing you
                         down. We provide secure, scalable solutions that grow with
                         you.
@@ -72,10 +72,10 @@ function WhoWeHelp() {
                       <h2 className="font-semibold my-4 text-lg text-center  ">
                         E-Commerce & SaaS
                         <span className="font-normal text-lg block">
-                          Transform Your Online Business
+                        Grow Online
                         </span>
                       </h2>
-                      <p className="text-md font-medium">
+                      <p className="text-md font-medium text-center">
                         Protect transactions, secure customer data, and optimize
                         performance while ensuring bulletproof security.
                       </p>
@@ -97,7 +97,7 @@ function WhoWeHelp() {
                           Unlock Your Business
                         </span>
                       </h2>
-                      <p className="text-md font-medium">
+                      <p className="text-md font-medium text-center" >
                         From compliance to crisis management, we provide
                         enterprise-grade cybersecurity, online reputation
                         management, and digital protection.

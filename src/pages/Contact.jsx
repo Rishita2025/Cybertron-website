@@ -106,6 +106,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
+
       <div className="px-32 text-center">
         <h1 className="text-blue-900 font-semibold text-2xl">
           Have an idea? Let’s build something incredible together.
@@ -120,9 +121,9 @@ const Contact = () => {
         className=" justify-center items-center mt-8  lg:mt-0 w-full bg-[$ffefa4] py-12  lg:pb-16 "
       >
         <div class="container mx-auto" data-aos="zoom-in">
-          <div class="grid grid-cols-1 md:grid-cols-3 gap-16 items-center">
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-16 items-center  px-32">
             {/* <!-- First Column - Takes More Space --> */}
-            <div class="md:col-span-2 bg-white  rounded-lg shadow">
+            <div class="md:col-span-2   rounded-lg shadow ">
               <form onSubmit={sendEmail}>
                 <div className="w-full bg-blue-900 p-8 rounded-2xl shadow-2xl">
                   <div className="flex ">
@@ -225,7 +226,7 @@ const Contact = () => {
             </div>
 
             {/* <!-- Second Column --> */}
-            <div class="p-10">
+            <div class="">
          
             <div className="bg-blue-900 rounded-lg text-white px-5 py-4 mb-2">
                 <h1 className="flex font-semibold capitalize"><BiSupport size={25} className="mr-2"/> customer support</h1>

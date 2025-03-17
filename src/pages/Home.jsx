@@ -17,13 +17,13 @@ const Home = () => {
     return (
         <>
             <Hero />
-            <Intro />
-            <Services />
-            <Portfolio />
             <Banner/>
             <OurStory/>
             <WhoWeHelp/>
             <OurDifference/>
+            {/* <Intro /> */}
+            <Services />
+            <Portfolio />
             <Clients />
             <Testimonial/>
             <Cta/>

@@ -16,10 +16,11 @@ function OurStory() {
                    Our Story : Born from a<br/> Mission to Protect
                  </h1>
               
+              <p className='text-lg font-semibold mb-4'>Cybertron Technologies started with a simple yet powerful belief**: **Security should never be an afterthought.</p>
            
               
                <div className="text-lg font-normal tracking-tight  text-black-500 ">
-               Cybertron Technologies was founded on the belief that security should never be an afterthought. Our founder saw too many businesses and individuals caught off guard by cyber threats because they didn’t know where to start. The industry was full of jargon and expensive, impersonal solutions.
+               Our founder saw **too many businesses, startups, and individuals blindsided by cyber threats**—not because they didn’t care, but because they **didn’t know where to start**. The cybersecurity industry was filled with complex jargon, overpriced solutions, and a lack of real, **human-focused protection**.
                </div>
                
                <div className="text-lg font-normal tracking-tight  text-black-500 mt-7">
