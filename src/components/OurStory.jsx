@@ -16,18 +16,21 @@ function OurStory() {
                    Our Story : Born from a<br/> Mission to Protect
                  </h1>
               
-              <p className='text-lg font-semibold mb-4'>Cybertron Technologies started with a simple yet powerful belief**: **Security should never be an afterthought.</p>
+              <p className='text-lg font-semibold mb-4'>Cybertron Technologies started with a simple yet powerful belief: Security should never be an afterthought.</p>
            
               
                <div className="text-lg font-normal tracking-tight  text-black-500 ">
-               Our founder saw **too many businesses, startups, and individuals blindsided by cyber threats**—not because they didn’t care, but because they **didn’t know where to start**. The cybersecurity industry was filled with complex jargon, overpriced solutions, and a lack of real, **human-focused protection**.
+               Our founder saw too many businesses, startups, and individuals blindsided by cyber threats—not because they didn’t care, but because they didn’t know where to start. The cybersecurity industry was filled with complex jargon, overpriced solutions, and a lack of real, human-focused protection.
                </div>
+
+               <p className='text-lg font-semibold my-4'>So, we decided to change that</p>
                
-               <div className="text-lg font-normal tracking-tight  text-black-500 mt-7">
+               <div className="text-lg font-normal tracking-tight  text-black-500 ">
 
-               We set out to change that by offering accessible, proactive, and human-focused security. Since then, we’ve helped businesses grow safely, startups build secure foundations, and individuals take control of their digital privacy. And we're just getting started.
+               We built Cybertron Technologies to be different—to be a partner, not just a service provider. We wanted to make security accessible, proactive, and tailored to the needs of startups, entrepreneurs, and individuals—not just big corporations.
 
                </div>
+               <p className='font-semibold text-md mt-7'>Since then, we’ve helped businesses scale safely, startups secure their foundations, and individuals reclaim control over their digital privacy. And we’re just getting started.</p>
 
                
              </div>

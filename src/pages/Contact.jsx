@@ -230,11 +230,11 @@ const Contact = () => {
          
             <div className="bg-blue-900 rounded-lg text-white px-5 py-4 mb-2">
                 <h1 className="flex font-semibold capitalize"><BiSupport size={25} className="mr-2"/> customer support</h1>
-                <Link to="" className="underline text-sm italic  underline-offset-2 pl-9" >support@ </Link>
+                <Link to="" className="underline text-sm italic  underline-offset-2 pl-9" >support@cybertron.it.com </Link>
             </div>
             <div className="bg-blue-900 rounded-lg text-white px-5 py-4 mb-2">
                 <h1 className="flex font-semibold capitalize"><FaHandshake size={25} className="mr-2"/> clients & partners</h1>
-                <Link to="" className="underline text-sm italic  underline-offset-2 pl-9" >info@  </Link>
+                <Link to="" className="underline text-sm italic  underline-offset-2 pl-9" >info@cybertron.it.com  </Link>
             </div>
             <div className="bg-blue-900 rounded-lg text-white px-5 py-4 mb-2">
                 <h1 className="flex font-semibold capitalize"> <FaBuildingUser size={25} className="mr-2"/>  product enquiries </h1>
